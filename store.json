@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "type": "mod",
+      "name": "Niko Oneshot Cursors",
+      "author": "unknown",
+      "description": "Cursors inspired by Oneshot's Niko",
+      "icon": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/icons/niko-cursors.png",
+      "url": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/packs/niko-oneshot-cursors.zip"
+    },
+    {
+      "type": "mod",
+      "name": "Embrace Censorship",
+      "author": "MistressDooM on gamebanana",
+      "description": "#### ### #########",
+      "icon": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/icons/censorship.png",
+      "url": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/packs/embrace-censorship.zip"
+    },
+    {
+      "type": "mod",
+      "name": "linux mint Bibata cursors",
+      "author": "unknown",
+      "description": "very cool linux mint cursors",
+      "icon": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/icons/bibata-cursors.png",
+      "url": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/packs/bibata-cursors.zip"
+    },
+    {
+      "type": "mod",
+      "name": "L337 text",
+      "author": "unknown",
+      "description": "experience roblox like a true haxx0r!",
+      "icon": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/icons/l337-text.png",
+      "url": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/packs/l337.zip"
+    },
+    {
+      "type": "mod",
+      "name": "git gud death sound",
+      "author": "unknown",
+      "description": "GIT GUD!",
+      "url": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/packs/gitgud-oof.zip"
+    },
+    {
+      "type": "mod",
+      "name": "touhou death sound",
+      "author": "anameless_guy on discord",
+      "description": "pichu~n",
+      "url": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/packs/touhou-oof.zip"
+    },
+    {
+      "type": "mod",
+      "name": "Oneshot starting room avatar editor",
+      "author": "unknown",
+      "description": "edit your avatar in the oneshot starting room!!!!!!",
+      "icon": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/icons/oneshot-avatar.png",
+      "url": "https://raw.githubusercontent.com/wookhq/Lution-Store/main/packs/oneshot-starting-room.zip"
+    }
+  ]
+}
